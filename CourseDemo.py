@@ -5,7 +5,6 @@
     and instructor information.  This program also allows the user to save and
     open files.
 
-    Leng Her
     12/19/2018
 """
 
